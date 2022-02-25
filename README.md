@@ -15,16 +15,17 @@ USE THIS FILE DIRCTLY UNLESS YOUR DEVICE IS SIMILAR WITH ME!
 | 02 | 324.0 | 6DA1 6DA2 |
 ## Offsets Hex Data
 Example: 
-[A][B] [0][1]
-  CD     09
-"C" = [A], "B" = [B]
-"0" = [0], "9" = [1]
 
-  [A]    [B]   |   [0]    [1]
- + 8    +0.5   |  +2048  +128
+[A][B] [0][1] -> CD 09
+
+"C" = [A], "D" = [B], "0" = [0], "9" = [1]
+
+|  [A]  |  [B]  |  [0]  |  [1]  |
+|-------|-------|-------|-------|
+| + 8   | +0.5  | +2048 | +128  |
 
 # Tested Device
 NVIDIA GeForce GTX 650 2GB (Zotac GeForce GTX 650 2GB TSI)
 
 # Supported Feature
-UEFI GOP
+- UEFI(GOP)
