@@ -11,7 +11,7 @@ DO **NOT** USE THIS FILE DIRCTLY UNLESS YOUR DEVICE IS SIMILAR WITH ME!
 ### Offsets
 | ID | Value |  Offsets  |
 |----|-------|-----------|
-| 00 |1254.0 | 6D97 6D98 |
+| 00 |1254.5 | 6D97 6D98 |
 | 01 | 540.0 | 6D9C 6D9D |
 | 02 | 324.0 | 6DA1 6DA2 |
 ### Hex Data
